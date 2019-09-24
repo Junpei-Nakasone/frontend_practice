@@ -1,0 +1,9 @@
+cssのdisplayで取れる値
+・inline
+     p、div、ul、h1〜h6などのタグの初期値
+・block
+    a、span、imgなどのタグの初期値はコレ
+・inline-block
+    blockとinlineの中間
+・none
+    非表示になる
